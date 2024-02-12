@@ -5,6 +5,6 @@ Case Studies Related to Machine Learning, Deep Learning, Computer Vision and Nat
    Project names           -  File names
 1. Time Series Forecasting  - AdeaseCasestudy
 
-2. Entertainment platform Recommendations - Jee_casestudy
+2. Entertainment platform Recommendations - Zee_casestudy
 
 3. NLP - Text Classification - FlipitnewsLatest
